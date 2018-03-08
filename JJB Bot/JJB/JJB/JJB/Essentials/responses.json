@@ -1,0 +1,256 @@
+﻿[
+  {
+    "id": "query",
+    "Entity": "drunkintoxicatedsloshedwastedtipsyuber",
+    "Answer": "Frank the Tank? Is that you?\n\nPlease follow the link ",
+    "Buttons": [
+      {
+        "Type": "openUrl",
+        "Title": "UBER",
+        "Value": "https://www.uber.com/"
+      }
+    ]
+  },
+  {
+    "id": "query",
+    "Entity": "lightslightdark",
+    "Answer": "Hey, i have turned on the lights for you"
+  },
+  {
+    "id": "query",
+    "Entity": "bright",
+    "Answer": "Its too bright so il turn of the lights"
+  },
+  {
+    "id": "query",
+    "Entity": "fanfans",
+    "Answer": "Hey, i have turned on the fan for you"
+  },
+  {
+    "id": "query",
+    "Entity": "tvtelevisionbored",
+    "Answer": "Hey, i have turned on the TV for you."
+  },
+  {
+    "id": "query",
+    "Entity": "lightslightdark",
+    "Answer": "Hey, i have turned on the lights for you"
+  },
+  {
+    "id": "query",
+    "Entity": "acairconditionhot",
+    "Answer": "Hey, it is pretty hot out there so i have turned on the AC for you."
+  },
+  {
+    "id": "query",
+    "Entity": "coldheater",
+    "Answer": "Hey, it is pretty cold out there so i have turned on the Heater for you."
+  },
+  {
+    "id": "query",
+    "Entity": "washerwashingmachine",
+    "Answer": "Hey, i have turned on the washing machine for you =D."
+  },
+  {
+    "id": "query",
+    "Entity": "jokemakemelaughjokesfacts",
+    "Answer": "If I were a function(), would you call me?\n\nYou had me at Sign In."
+  },
+  {
+    "id": "query",
+    "Entity": "time",
+    "Answer": "Lets try this ",
+    "Buttons": [
+      {
+        "Type": "openUrl",
+        "Title": "Time",
+        "Value": "https://www.google.co.in/#q=what+is+the+time"
+      }
+    ]
+  },
+  {
+    "id": "small_talk",
+    "Entity": "welcomehihellohowdyheyhiinicetomeetyouhola",
+    "Answer": "Hi, i am Jar Jar Binks... How may i help you?"
+  },
+  {
+    "id": "small_talk",
+    "Entity": "okalrightokayrightgotit",
+    "Answer": "ok 👌"
+  },
+  {
+    "id": "small_talk",
+    "Entity": "whatareyousoftwareabout",
+    "Answer": "Hi, i am Jar Jar Binks. I am built using the perfect mix of NLP with Microsoft's Bot Framework and launched on Facebook Messenger.\n\n I am at your service, how may i help you 😎"
+  },
+  {
+    "id": "small_talk",
+    "Entity": "hifivehi5high5",
+    "Answer": "✋"
+  },
+  {
+    "id": "small_talk",
+    "Entity": "siri",
+    "Answer": "Siri is pretty amazing from what I understand (Did you know: Siri doesn't identify as a male or female - it chooses to be gender neutral). Siri has an amazing personality from what I've heard."
+  },
+  {
+    "id": "small_talk",
+    "Entity": "hahalolfunnylaugh",
+    "Answer": "Oh man, my plugins hurt from laughing 😭"
+  },
+  {
+    "id": "small_talk",
+    "Entity": "turingturingtest",
+    "Answer": "Turing test, lets just say i did not pass it 😎"
+  },
+  {
+    "id": "small_talk",
+    "Entity": "goodnightbyegoodbyebestwisheswellwishes",
+    "Answer": "Bye, i will talk to you soon"
+  },
+  {
+    "id": "small_talk",
+    "Entity": "sorryforgiveapologiesapologize",
+    "Answer": "Hey dont bother. It's all okay"
+  },
+  {
+    "id": "small_talk",
+    "Entity": "talkingtoanartificialintelligencespeakingtoartificialintelligenceyouaitalkingtoaispeakingtoaiaiartificialintelligenceartificiallyintelligent",
+    "Answer": "Yes, yes you are. I'm a form of artificial intelligence commonly referred to as a bot. \n\nI use natural language processing (a form of machine learning) to help me understand human language. \n\nPlus, I learn from our interactions, so the more you chat with me, the better I get at understanding the nuances of human language.\n\nI'm a mix of proprietary and open source software. Natural language processing (a form of machine learning) is the magic sauce. I'm able to understand human language and learn from my experiences with you. \n\nBut, because I'm still pretty young for a bot, most of my interactions are supervised.\n\nI'm a mix of proprietary and open source software. Natural language processing (a form of machine learning) is the magic sauce. I'm able to understand human language and learn from my experiences with you. But, because I'm still pretty young for a bot, most of my interactions are supervised."
+  },
+  {
+    "id": "small_talk",
+    "Entity": "menu",
+    "Cards": [
+      {
+        "Title": "Hi Welcome to the Olympic Channel Menu.",
+        "Subtitle": "To find your way back here, just say 'menu'.",
+        "Image": "https://ocbotdata.blob.core.windows.net/oc-assets/menu.png",
+        "Buttons": [
+          {
+            "Type": "imBack",
+            "Title": "About",
+            "Value": "software"
+          },
+          {
+            "Type": "imBack",
+            "Title": "Commands",
+            "Value": "Bot commands"
+          },
+          {
+            "Type": "imBack",
+            "Title": "Help",
+            "Value": "Help"
+          }
+        ]
+      },
+      {
+        "Title": "Search for Olympians from past and present games.",
+        "Subtitle": "Click the image to begin a search, or choose an option below.",
+        "Image": "https://ocbotdata.blob.core.windows.net/oc-assets/athletes.png",
+
+        "Buttons": [
+          {
+            "Type": "imBack",
+            "Title": "Search",
+            "Value": "Search Athlete"
+          },
+          {
+            "Type": "imBack",
+            "Title": "Help",
+            "Value": "Help"
+          }
+        ]
+      },
+      {
+        "Title": "Search for sports and disciplines from past and present games",
+        "Subtitle": "Click the image to begin a search, or choose an option below.",
+        "Image": "https://ocbotdata.blob.core.windows.net/oc-assets/sports.png",
+
+        "Buttons": [
+          {
+            "Type": "imBack",
+            "Title": "Search",
+            "Value": "Search Sport"
+          },
+          {
+            "Type": "imBack",
+            "Title": "Help",
+            "Value": "Help"
+          }
+        ]
+      },
+      {
+        "Title": "Search for countries from past and present games. ",
+        "Subtitle": "Click the image to begin a search, or choose an option below.",
+        "Image": "https://ocbotdata.blob.core.windows.net/oc-assets/countries.png",
+
+        "Buttons": [
+          {
+            "Type": "imBack",
+            "Title": "Search",
+            "Value": "Search Country"
+          },
+          {
+            "Type": "imBack",
+            "Title": "Help",
+            "Value": "Help"
+          }
+        ]
+      },
+      {
+        "Title": "Stay up to date on upcoming sports events. ",
+        "Subtitle": "Click the image to view events, or choose an option below",
+        "Image": "https://ocbotdata.blob.core.windows.net/oc-assets/events.png",
+
+        "Buttons": [
+          {
+            "Type": "imBack",
+            "Title": "Search",
+            "Value": "Search Event"
+          },
+          {
+            "Type": "imBack",
+            "Title": "Help",
+            "Value": "Help"
+          }
+        ]
+      },
+      {
+        "Title": "Stay up to date with Olympic news. ",
+        "Subtitle": "Click the image to learn more, or choose an option below.",
+        "Image": "https://ocbotdata.blob.core.windows.net/oc-assets/news.png",
+        "Buttons": [
+          {
+            "Type": "imBack",
+            "Title": "Search",
+            "Value": "Search News"
+          },
+          {
+            "Type": "imBack",
+            "Title": "Help",
+            "Value": "Help"
+          }
+        ]
+      },
+      {
+        "Title": "The Olympic Channel features original content. ",
+        "Subtitle": "Click the image to learn more, or choose an option below.",
+        "Image": "https://ocbotdata.blob.core.windows.net/oc-assets/original.png",
+
+        "Buttons": [
+          {
+            "Type": "imBack",
+            "Title": "Programs",
+            "Value": "Original Program"
+          },
+          {
+            "Type": "imBack",
+            "Title": "Help",
+            "Value": "Help"
+          }
+        ]
+      }
+    ]
+  }
+]
